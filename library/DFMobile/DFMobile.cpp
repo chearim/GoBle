@@ -4,6 +4,7 @@
  Romeo library of car Speed
  	Copyright (C) 2015 DFRobot
  */
+git archive --format zip --output /full/path/to/zipfile.zip master
 
 #include <Arduino.h>
 #include "DFMobile.h"
